@@ -1,9 +1,10 @@
 /**
-* @file
+ * @file
  * @brief [Scapegoat Tree](https://en.wikipedia.org/wiki/Scapegoat_tree) implementation.
- * @details ... DoxyFile
+ * @details A scapegoat tree is a self-balancing binary search tree, 
+ * invented by Arne Andersson and again by Igal Galperin and Ronald L. Rivest.
+ * @author [Omar Ahmed/OmarAhmedTHE25th](https://github.com/OmarAhmedTHE25th
  */
-/**
  * ScapeGoat Tree Implementation
  *
  * A self-balancing BST that maintains balance through periodic rebuilding.
@@ -1298,3 +1299,4 @@ namespace data_structures::scapegoat_tree {
     }
 }
 #endif //TREE_SCAPEGOATTREE_TPP
+
